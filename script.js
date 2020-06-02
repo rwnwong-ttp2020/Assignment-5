@@ -27,7 +27,6 @@ function addColumn () {
 
 
 
-
 /*let newRow = document.createElement("row");
 let a = newRow.insertCell (0);
 let b = newRow.insertCell (1);
